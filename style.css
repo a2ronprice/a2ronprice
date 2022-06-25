@@ -1,0 +1,20 @@
+/* Additional CSS rules */
+body {
+  background-color: rgb(110, 110, 110);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    color:rgb(255, 255, 255);
+}
+
+ul, li {
+    color:rgb(255, 255, 255);
+}
