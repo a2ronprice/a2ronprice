@@ -1,20 +1,28 @@
 /* Additional CSS rules */
 body {
-  background-color: rgb(110, 110, 110);
+  background-color: rgb(255, 255, 255);
+  border: 0.5rem outset rgb(122, 116, 231);
+  border-radius: 1px;
 }
 
 p {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 h1 {
-    color: rgb(255, 255, 255);
-}
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+    }
 
 h3 {
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    text-align: center;
 }
 
 ul, li {
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    list-style-position: inside;
 }
