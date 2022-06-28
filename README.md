@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Aaron and this is my personal site!
+
+I'm not sure exactly what I want to use this for but figured since I own the domain I might as well have a landing page.
 
 <!--
 **a2ronprice/a2ronprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
