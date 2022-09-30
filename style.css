@@ -30,7 +30,7 @@ ul, li {
 
 #rectangle{
     width:700px;
-    height:340px;
+    height:380px;
     background:rgb(255, 255, 255);
     border-radius: 2px;
     border-style: solid;
@@ -40,3 +40,18 @@ ul, li {
     left:50%;
     transform:translate(-50%,-50%);
 }
+
+#twitter {
+
+    background-image: url('tweet.png');
+    background-size: cover;
+    background-color: white;
+    padding: 16px 16px;
+    border: none;
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
